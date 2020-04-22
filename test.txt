@@ -1,2 +1,2 @@
 this is a text for testing.
-this is test branch
+this is test.
